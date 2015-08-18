@@ -16,15 +16,15 @@ Or NPM:
 ```HTML
 <div class="container">
     <div class="row">
-        <div class="col-4"></div>
-        <div class="col-4 col-offset-2"></div>
-        <div class="col-2"></div>
+        <div class="col-sm-12 col-md-4"></div>
+        <div class="col-sm-12 col-md-4 col-offset-md-2"></div>
+        <div class="col-sm-12 col-md-2"></div>
     </div>
 </div>
 ```
 
 ## License
-Copyright (c) 2015 Luís Nabais
+Copyright (c) 2015 Luís Nabais.
 Licensed under the MIT License
 
 
