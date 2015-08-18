@@ -60,7 +60,7 @@ module.exports = function (grunt) {
             options: {
                 files: ['package.json', 'bower.json'],
                 updateConfigs: ['project.pkg', 'project.bower'],
-                commitFiles: ['package.json', 'bower.json', 'css/*'],
+                commitFiles: ['package.json', 'bower.json', 'dist/*'],
                 pushTo: 'origin',
                 push: grunt.option('push') === true
             }
