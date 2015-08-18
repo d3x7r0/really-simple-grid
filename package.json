@@ -1,7 +1,7 @@
 {
   "name": "really-simple-grid",
   "version": "0.0.1",
-  "authors": [
+  "author": [
     "Luis Nabais <lnabais@impresa.pt>"
   ],
   "description": "A really simple (mostly) drop-in replacement for Bootstrap grids",
@@ -12,6 +12,12 @@
     "bootstrap"
   ],
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:d3x7r0/really-simple-grid.git"
+  },
+  "homepage": "https://github.com/d3x7r0/really-simple-grid",
+  "bugs": "https://github.com/d3x7r0/really-simple-grid/issues",
   "ignore": [
     "**/.*",
     "node_modules",
