@@ -17,7 +17,7 @@ Or NPM:
 <div class="container">
     <div class="row">
         <div class="col-sm-12 col-md-4"></div>
-        <div class="col-sm-12 col-md-4 col-offset-md-2"></div>
+        <div class="col-sm-12 col-md-4 col-md-offset-2"></div>
         <div class="col-sm-12 col-md-2"></div>
     </div>
 </div>
